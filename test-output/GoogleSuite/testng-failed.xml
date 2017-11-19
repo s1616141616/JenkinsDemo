@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GoogleSuite]">
+  <test name="MainSearchTest(failed)">
+    <classes>
+      <class name="com.google.MainSearch">
+        <methods>
+          <include name="selectFromSearchList"/>
+        </methods>
+      </class> <!-- com.google.MainSearch -->
+    </classes>
+  </test> <!-- MainSearchTest(failed) -->
+</suite> <!-- Failed suite [GoogleSuite] -->
